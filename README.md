@@ -1,8 +1,9 @@
 # Stenoboard V1
 A 28 key stenography keyboard.
 
-**Finished PCB 3d render:**
-<img width="974" height="435" alt="Screenshot 2025-11-11 at 11 15 09 AM" src="https://github.com/user-attachments/assets/87a21844-ff7e-48c0-bc97-01d535f907f5" />
+**Finished 3D Render:**
+<img width="963" height="348" alt="Screenshot 2025-11-18 at 10 33 20 AM" src="https://github.com/user-attachments/assets/23d0ddf9-ba34-49c7-9738-50df6ac0564a" />
+
 
 ## Pictures
 
